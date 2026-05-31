@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-I'm a **Data Science AI/ML Engineering & Full-Stack Developer** passionate about building intelligent systems that solve real-world problems. My work spans **machine learning, data analytics, AI-driven solutions, and scalable backend systems**.
+I'm a **Data Science | Data Engineer | AI/ML Engineering & Full-Stack Developer** passionate about building intelligent systems that solve real-world problems. My work spans **machine learning, data analytics, AI-driven solutions, and scalable backend systems**.
 
 ---
 
