@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-I'm a **Data Science & Full-Stack Developer** passionate about building intelligent systems that solve real-world problems. My work spans **machine learning, data analytics, AI-driven applications, and cloud-based solutions**.
+I'm a **Data Science & Full-Stack Developer** passionate about building intelligent systems that solve real-world problems. My work spans **machine learning, data analytics, AI-driven applications,[...]
 
 ---
 
@@ -62,6 +62,7 @@ Curated reference for modern data science workflows
 ### **ML & Data Science**
 ![XGBoost](https://img.shields.io/badge/XGBoost-00A000?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
@@ -69,6 +70,10 @@ Curated reference for modern data science workflows
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### **Data Visualization & Web Apps**
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ### **DevOps & Tools**
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
