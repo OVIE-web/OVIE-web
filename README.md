@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-I'm a **Data Science AI/ML Engineering & Full-Stack Developer** passionate about building intelligent systems that solve real-world problems. My work spans **machine learning, data analytics, AI-driven applications,[...]
+I'm a **Data Science AI/ML Engineering & Full-Stack Developer** passionate about building intelligent systems that solve real-world problems. My work spans **machine learning, data analytics, AI-driven solutions, and scalable backend systems**.
 
 ---
 
@@ -113,7 +113,7 @@ I'm interested in projects involving:
 
 ## 📊 GitHub Statistics
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=OVIE-web&theme=dark&show_icons=true&count_private=true)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=OVIE-web&theme=dark&show_icons=true&count_private=true)](https://github.com/OVIE-web)
 
 ---
 
