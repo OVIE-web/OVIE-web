@@ -1,54 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-I'm a **Data Science | Data Engineer | AI/ML Engineering & Full-Stack Developer** passionate about building intelligent systems that solve real-world problems. My work spans **machine learning, data analytics, AI-driven solutions, and scalable backend systems**.
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 **[Crypto Trading Bot](https://github.com/OVIE-web/MyTradingProject-crypto_trading_bot)**
-> **AI-Powered Algorithmic Trading System**
-
-A production-ready trading bot featuring:
-- 🎯 **ML-Based Signal Generation** - XGBoost model for predictive trading signals
-- 📊 **Real-Time Data Processing** - Live Binance API integration
-- 🔄 **Backtesting Engine** - Validate strategies on historical data
-- 🐳 **Fully Dockerized** - Scalable microservices architecture
-- 📈 **Live & Testnet Trading** - Paper trading with real-time notifications
-- 💾 **PostgreSQL Backend** - Comprehensive trade logging & analysis
-
-**Tech Stack:** `Python` • `FastAPI` • `XGBoost` • `PostgreSQL` • `Docker` • `Binance API`
-
----
-
-### 📊 **[Apple App Store Analysis](https://github.com/OVIE-web/Apple-Store)**
-> **Data-Driven Market Intelligence**
-
-Comprehensive analysis of app market trends:
-- 📱 Popularity, ratings, and genre distributions
-- 💡 Actionable insights for app developers
-- 📈 Statistical analysis and advanced visualizations
-
-**Tech Stack:** `Python` • `Jupyter Notebook` • `Pandas` • `Matplotlib`
-
----
-
-### 🌤️ **[Weather Insights](https://github.com/OVIE-web/Weather-Insights)**
-> **Real-Time Weather Data Analytics**
-
-Intelligent weather data collection and analysis:
-- 🌐 Multi-source real-time data collection
-- 📉 Statistical weather pattern analysis
-- 🔍 Interactive data visualizations
-
-**Tech Stack:** `Python` • `Data Collection APIs` • `Jupyter Notebook`
-
----
-
-### 📚 **[Data Science Ecosystem](https://github.com/OVIE-web/DataScienceEcosystem)**
-> **Essential DS Tools & Libraries**
-
-Curated reference for modern data science workflows
+I'm a **Data Science | Data Engineer | AI/ML Engineering & Full-Stack Developer** passionate about building intelligent systems that solve real-world problems. My work spans **machine learning, dat[...]
 
 ---
 
@@ -79,6 +31,9 @@ Curated reference for modern data science workflows
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Mypy](https://img.shields.io/badge/Mypy-2C2D72?style=for-the-badge&logo=mypy&logoColor=white)
+![Ruff](https://img.shields.io/badge/Ruff-FFD43B?style=for-the-badge&logo=ruff&logoColor=black)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
 ---
 
