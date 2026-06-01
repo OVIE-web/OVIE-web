@@ -63,6 +63,8 @@ I'm interested in projects involving:
 - 🤖 **ML & AI Applications** - Intelligent automation
 - 💹 **FinTech & Trading Systems** - Algorithmic solutions
 - 🌐 **Full-Stack Development** - End-to-end product building
+- ⚙️ **Data Engineering** - Robust and scalable data pipelines
+- 💡 **AI/Engineering** - Intelligent system architectures
 
 ---
 
